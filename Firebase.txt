@@ -1,0 +1,17 @@
+- Firebase:
+Hoạt động nổi bật của Firebase là xây dựng các bước xác thực người dùng bằng Email, Facebook, Twitter, GitHub, Google.
+Đồng thời cũng xác thực nặc danh cho các ứng dụng. Hoạt động xác thực có thể giúp thông tin cá nhân của người sử dụng được an toàn và đảm bảo không bị đánh cắp tài khoản.
+- công dụng của Firebase:
+	+ Tạo tài khoản và sử dụng dễ dàng
+	+ Tốc độ phát triển nhanh
+	+ Nhiều dịch vụ trong một nền tảng
+	+ Được cung cấp bởi Google 
+	+ tập trung vào phát triển giao diện người dùng 
+	+ Firebase không có máy chủ
+	+ Học máy (Machine Learning)
+	+ Tạo lưu lượng truy cập
+ 	+ Theo dõi lỗi
+	+Sao lưu
+- cách cài đặt firebase:
+có rất nhiều trang hướng dẫn cài đặt đây là một ví dụ ạ :((.
+https://hocspringboot.net/2020/11/13/firebase-authentication-la-gi-login-facebook-voi-firebase-auth/
